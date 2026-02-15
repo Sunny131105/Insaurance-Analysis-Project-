@@ -48,10 +48,9 @@ The dashboard highlights key analytical insights such as:
 |------|---------|
 | ⚡ Power BI | Dashboard design, visual analytics, interactive reporting |
 | 📊 Excel / CSV | Dataset storage and preprocessing |
+| 🗄️ SQL | Data querying and analysis |
 | 🐍 Python (optional) | Data cleaning & feature engineering |
 | 📈 Data Visualization | Business-centric charts and KPIs |
-| 📁 GitHub | Repository publishing |
-
 
 
 ## 📂 Dataset
