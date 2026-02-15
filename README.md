@@ -11,6 +11,14 @@ A comprehensive **Insurance Data Analysis Dashboard** built using Power BI that 
 https://app.powerbi.com/links/MFapeAxTM6?ctid=a2184b0e-8c2c-4ed2-a48d-ca266f37cf01&pbi_source=linkShare
 
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="assets/insurance-dashboard.png" alt="Insurance Dashboard" width="900"/>
+</p>
+
+
+
 
 ## 🧩 Problem Statement
 
