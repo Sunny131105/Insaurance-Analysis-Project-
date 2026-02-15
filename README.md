@@ -13,10 +13,7 @@ https://app.powerbi.com/links/MFapeAxTM6?ctid=a2184b0e-8c2c-4ed2-a48d-ca266f37cf
 
 ## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="assets/insurance-dashboard.png" alt="Insurance Dashboard" width="900"/>
-</p>
-
+ <img width="1380" height="763" alt="Screenshot 2026-02-15 210000" src="https://github.com/user-attachments/assets/c58a654c-bd47-4398-9e22-68c3afa3f996" />
 
 
 
